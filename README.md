@@ -22,3 +22,10 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
+<a href="https://pujanthapa.com.np">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampujan&show_icons=true&theme=radical" alt="Pujan's github stats" />
+</a>
+<a href="https://pujanthapa.com.np">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampujan&layout=compact&theme=radical" />
+</a>
