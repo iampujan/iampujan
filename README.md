@@ -47,6 +47,13 @@ ___
 
 
 ___
+## My Articles
+
+<a href="https://medium.com/analytics-vidhya/exporting-collections-and-subcollections-from-firestore-to-bigquery-a82a4b52f602">
+  <img src="https://img.shields.io/badge/GCP-Exporting%20Collections%20and%20Subcollections%20from%20Firestore%20to%20Bigquery.-brightgreen?style=for-the-badge" width="500">
+</a>
+___
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampujan" alt="Pujan" /> </p>
 
 ### Thanks for visiting!
