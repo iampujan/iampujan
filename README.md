@@ -4,7 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/-Software%20Engineer%20at%20Leapfrog%20Technology%20Inc.-black?style=for-the-badge" width=400>
+  <a href="https://www.lftechnology.com/">
+    <img src="https://img.shields.io/badge/-Software%20Engineer%20at%20Leapfrog%20Technology%20Inc.-black?style=for-the-badge" width=400>
+  </a>
 </p>
 
 <p align='center'>  
