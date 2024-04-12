@@ -7,8 +7,10 @@
   <a href="https://www.unina.it/">
     <img src="https://img.shields.io/badge/-Masters in Data Science at UNINA-black?style=for-the-badge" width=400>
   </a>
+</p>
+<p>
   <a href="https://www.lftechnology.com/">
-    <img src="https://img.shields.io/badge/-FormerSoftware%20Engineer%20at%20Leapfrog%20Technology%20Inc.-black?style=for-the-badge" width=400>
+    <img src="https://img.shields.io/badge/-Former Software%20Engineer%20at%20Leapfrog%20Technology%20Inc.-black?style=for-the-badge" width=400>
   </a>
 </p>
 
