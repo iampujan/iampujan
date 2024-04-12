@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Masters%20in%20Data%20Science%20at%20UNINA-black?style=for-the-badge" width=400>
   </a>
 </p>
-<p>
+<p align='center'>
   <a href="https://www.lftechnology.com/">
     <img src="https://img.shields.io/badge/-Former%20Software%20Engineer%20at%20Leapfrog%20Technology%20Inc.-black?style=for-the-badge" width=400>
   </a>
